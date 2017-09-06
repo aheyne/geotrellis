@@ -3,7 +3,7 @@
 We value all kinds of contributions from the community, not just actual
 code. Perhaps the easiest and yet one of the most valuable ways of helping
 us improve GeoTrellis is to ask questions, voice concerns or propose
-improvements on the [Mailing List](https://groups.google.com/group/geotrellis-user).
+improvements on the [Mailing List](https://dev.locationtech.org/mailman/listinfo/geotrellis-user).
 
 If you do like to contribute actual code in the form of bug fixes, new
 features or other patches this page gives you more info on how to do it.
